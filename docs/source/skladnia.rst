@@ -33,7 +33,7 @@ Akapit tekstowy andkjsandkjna
 .. code-block::
 
 - Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
-To jest [odnośnik do edu.glpweb.pl](https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tp&load=43).
+To jest `odnośnik do edu.glpweb.pl <https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tp&load=43>_
 
 -Listy (numerowana, wypunktowana, definicji)
 
